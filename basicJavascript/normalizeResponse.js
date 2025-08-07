@@ -5,6 +5,12 @@
  * null is an assigned value that represents "no value" or "no object".
  **/
 
+/**
+ * INFO: MEMEROY TECHNIQUE
+ * null = like a fridge that is powered on but empty
+ * undefined = like a fridge that is not plugged in at all
+ **/
+
 let a
 console.log(a) // undefined
 
